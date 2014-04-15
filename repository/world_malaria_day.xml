@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+<title><![CDATA[What do you know about Malaria?]]></title>
+<time><![CDATA[0]]></time>
+<singlechoice><![CDATA[Select the best choice.]]></singlechoice>
+<multiplechoice><![CDATA[Select [$] answers.]]></multiplechoice>
+<nextbutton><![CDATA[Next]]></nextbutton>
+<prevbutton><![CDATA[Previous]]></prevbutton>
+<finishbutton><![CDATA[Finish]]></finishbutton>
+<startbutton><![CDATA[Start the quiz]]></startbutton>
+<reviewbutton><![CDATA[undefined]]></reviewbutton>
+<resultscreentitle><![CDATA[Your Result:]]></resultscreentitle>
+<resultscreenresultline><![CDATA[correct answers.]]></resultscreenresultline>
+<welcometext><![CDATA[Malaria is a very serious issues in many countries. Test your knowledge! ]]></welcometext>
+<question><![CDATA[How many countries does Malaria occur in?]]>
+<answer correct='true'><![CDATA[100]]></answer>
+<answer correct='false'><![CDATA[50]]></answer>
+<answer correct='false'><![CDATA[10]]></answer>
+<answer correct='false'><![CDATA[200]]></answer>
+</question>
+<question><![CDATA[In 2010 more than 200 Million people suffered from Malaria]]>
+<answer correct='true'><![CDATA[True]]></answer>
+<answer correct='false'><![CDATA[False]]></answer>
+</question>
+<question><![CDATA[ChildFund prevents Malaria by providing communities by]]>
+<answer correct='false'><![CDATA[Providing Insecticide treated Mosquito Nets]]></answer>
+<answer correct='false'><![CDATA[Providing Training and Education of Leaders on Malaria Prevention]]></answer>
+<answer correct='false'><![CDATA[Providing Focus on the most vulnerable: Pregnant Women, households headed by children and Grandparents and the disabled]]></answer>
+<answer correct='true'><![CDATA[All of the above]]></answer>
+</question>
+<question><![CDATA[Malaria is the leading cause of death in children in Zambia]]>
+<answer correct='true'><![CDATA[True]]></answer>
+<answer correct='false'><![CDATA[False]]></answer>
+</question>
+<question><![CDATA[Most Malaria deaths occur in children under 5 years old]]>
+<answer correct='true'><![CDATA[True]]></answer>
+<answer correct='false'><![CDATA[False]]></answer>
+</question>
+</quiz>
