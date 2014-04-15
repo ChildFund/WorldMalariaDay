@@ -147,11 +147,11 @@
 	color: #bbb !important;
 	cursor: default !important;
 }
-body{
+.body{
 	border: 1px solid #AAA;
-color: #333;
-text-shadow: 0px 1px 0px #FFF;
-background: linear-gradient(#F9F9F9, #EEE) repeat scroll 0% 0% #F9F9F9;
+	color: #333;
+	text-shadow: 0px 1px 0px #FFF;
+	background: linear-gradient(#F9F9F9, #EEE) repeat scroll 0% 0% #F9F9F9;
 }
 .content{
 	margin:5px 12px;
@@ -168,6 +168,7 @@ background: linear-gradient(#F9F9F9, #EEE) repeat scroll 0% 0% #F9F9F9;
 	font-weight:normal;
 	font-family: Helvetica,sans-serif;
 	}
+	
 .header{
 border: 1px solid #333;
 background: linear-gradient(#007A45, #111) repeat scroll 0% 0% #111;
@@ -175,6 +176,7 @@ color: #FFF;
 font-weight: bold;
 text-shadow: 0px -1px 0px #000;
 	}
+	
 .content_header{
 	text-align:center;
 	font-size:18px;
@@ -228,7 +230,8 @@ text-shadow: 0px -1px 0px #000;
 	background:-moz-linear-gradient( center top, #faa81a 5%, #f9e655 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa81a', endColorstr='#f9e655');
 	background-color:#faa81a;
-}.button-custom:active {
+}
+.button-custom:active {
 	position:relative;
 	top:1px;
 }
@@ -365,8 +368,8 @@ position:relative;
 </head>
 
 
-<body>
-<header><div class="header">
+<body class="body">
+<header class="header"><div class="header">
 	<img src="images/logo-75th-anniversary.png" class="imgs"/>
 	</div></header>
 
